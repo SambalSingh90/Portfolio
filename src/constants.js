@@ -220,23 +220,23 @@ export const SkillsInfo = [
     },
     {
       id: 3,
-      title: "Email Validator NPM Package",
+      title: "IT Solutions & Services Website ",
       description:
-        "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
+        "Developed a responsive IT solutions website using React.js, HTML, CSS, JavaScript, and Bootstrap, featuring modern UI, service sections, portfolio showcase, client information, and contact functionality.",
       image: npmLogo,
-      tags: ["React JS", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/codingm/email-validator",
-      webapp: "https://www.npmjs.com/package/cmtkmailvalidator",
+      tags: ["React JS", "HTML", "CSS", "JavaScript","BootStrap"],
+      github: "https://github.com/SambalSingh90/IT_Website.git",
+      webapp: " https://sambalsingh90.github.io/IT_Website/",
     },
     {
       id: 4,
-      title: "Task Reminder Chrome Extension Tool",
+      title: "Doctor Appointment Website",
       description:
-        "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
+        "Developed a responsive healthcare website with a clean and user-friendly interface, featuring doctor profiles, medical departments, services, appointment booking, and contact sections.",
       image: taskremLogo,
-      tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/Reminder-Tool",
-      webapp: "chrome://extensions/?id=kngheeibjneci",
+      tags: ["JavaScript", "Chrome Extension", "HTML", "CSS","BootStrap"],
+      github: "https://github.com/SambalSingh90/Dr.-Appointment-Site.git",
+      webapp: "https://sambalsingh90.github.io/Dr.-Appointment-Site/",
     },
     
     
