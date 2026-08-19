@@ -2,7 +2,7 @@
   "name": "sambal-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sambalsingh90.github.io/Sambal-Portfolio",
+  "homepage": "https://sambalsingh90.github.io/Portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",

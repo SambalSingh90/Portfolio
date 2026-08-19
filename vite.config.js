@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 
 export default defineConfig({
-  base: '/Sambal-Portfolio/',
+  base: '/Portfolio/',
   plugins: [
     tailwindcss(),
   ],
